@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-</p>
+</div>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" alt="bootstrap logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" alt="django logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo" />
@@ -73,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="30" alt="vuejs logo" />
-</p>
+</div>
 
 ###
 
@@ -109,12 +109,12 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravindu01manoj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=ravindu01manoj&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=ravindu01manoj&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindu01manoj&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" />
-</p>
+</div>
 
 ###
 
